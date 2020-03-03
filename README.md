@@ -1,5 +1,6 @@
 # ebookdownloader
 网文下载器
+# 添加Bat脚本，方便下载
 
  [![GitHub license](https://img.shields.io/github/license/sndnvaps/ebookdownloader)](https://github.com/sndnvaps/ebookdownloader/blob/master/LICENSE)
 
