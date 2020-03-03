@@ -1,7 +1,6 @@
 # ebookdownloader
-网文下载器
-添加Bat脚本，方便下载
-[注意修改保存格式为GBK](https://github.com/GDrain/ebookdownloader/blob/master/%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E5%99%A8(%E5%8F%8C%E5%87%BB%E6%88%91).bat "https://github.com/GDrain/ebookdownloader/blob/master/%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E5%99%A8(%E5%8F%8C%E5%87%BB%E6%88%91).bat")
+为网文下载器添加Bat脚本，方便使用，注意修改保存格式为GBK。
+[Bat下载](https://github.com/GDrain/ebookdownloader/blob/master/%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E5%99%A8(%E5%8F%8C%E5%87%BB%E6%88%91).bat "https://github.com/GDrain/ebookdownloader/blob/master/%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E5%99%A8(%E5%8F%8C%E5%87%BB%E6%88%91).bat")
 
 
  [![GitHub license](https://img.shields.io/github/license/sndnvaps/ebookdownloader)](https://github.com/sndnvaps/ebookdownloader/blob/master/LICENSE)
